@@ -1,0 +1,42 @@
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.xml
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.xml
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbprojAssemblyReference.cache
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.Resources.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.GenerateResource.cache
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.CoreCompileInputs.cache
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.CopyComplete
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.xml
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.xml
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.xml
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbprojAssemblyReference.cache
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.Resources.resources
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.GenerateResource.cache
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.CoreCompileInputs.cache
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.CopyComplete
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.xml
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.dll
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Datos\bin\Debug\Sistema.Datos.xml
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.dll
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Datos\bin\Debug\Sistema.Entidades.xml
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbprojAssemblyReference.cache
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.Resources.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.GenerateResource.cache
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.CoreCompileInputs.cache
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.vbproj.CopyComplete
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.dll
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.xml
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Datos\obj\Debug\Sistema.Datos.pdb
