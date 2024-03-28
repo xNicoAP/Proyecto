@@ -1,0 +1,108 @@
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbprojAssemblyReference.cache
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Resources.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.GenerateResource.cache
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbprojAssemblyReference.cache
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Resources.resources
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.GenerateResource.cache
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.xml
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.xml
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.xml
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.xml
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.CopyComplete
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.xml
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\drube\OneDrive\Escritorio\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormPrincipalvb.resources
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.xml
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.xml
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.xml
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.xml
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbprojAssemblyReference.cache
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Resources.resources
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.GenerateResource.cache
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.CopyComplete
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.xml
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\Bernardo\Desktop\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormPrincipal.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.xml
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.xml
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.xml
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.xml
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.CopyComplete
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.xml
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormPrincipal.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormLogin.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormCategoria.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormArticulo.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormRol.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormUsuario.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormProveedor.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormCliente.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormIngreso.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormProveedor_Ingreso.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe.config
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.exe
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Presentacion.xml
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.dll
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.dll
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.dll
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Entidades.xml
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Negocio.xml
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\bin\Debug\Sistema.Datos.xml
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbprojAssemblyReference.cache
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormArticulo.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormCategoria.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormCliente.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormIngreso.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormLogin.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormPrincipal.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormProveedor.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormProveedor_Ingreso.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormRol.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormUsuario.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.Resources.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.GenerateResource.cache
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.vbproj.CopyComplete
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.exe
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.xml
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyects\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.pdb
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormVenta.resources
+C:\Users\Bernardo\Documents\Visual Studio 2017\Proyectos\Sistema\Sistema.Presentacion\obj\Debug\Sistema.Presentacion.FormCliente_Venta.resources
